@@ -1,0 +1,24 @@
+{
+	"name": "Bandcamp",
+	"description": "Bandcamp is an American online audio distribution platform founded in 2007.",
+	"author": "rom",
+	"authorUrl": "https://rom.dog/",
+	
+	"scriptUrl": "./index.js",
+	"version": 1,
+	
+	"iconUrl": "./icon.png",
+
+	"id": "b3a35316-6c86-4d6a-92a7-be82029ad6b9",
+	
+	"scriptSignature": "<omitted>",
+	"scriptPublicKey": "<omitted>",
+
+	"packages": ["Http", "DOMParser"],
+	
+	"allowEval": false,
+
+	"allowUrls": [
+		"everywhere"
+	]
+}
